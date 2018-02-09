@@ -16,7 +16,7 @@
         android:layout_marginStart="60dp"
         android:layout_marginTop="11dp"
         android:fontFamily="cursive"
-        android:text="If u want to know my faworite things press on me!"
+        android:text="If u want to know my favorite things press on me!"
         android:textAlignment="center"
         android:textColor="#6B2020"
         android:textSize="24sp"
